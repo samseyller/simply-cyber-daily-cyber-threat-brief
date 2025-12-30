@@ -17,9 +17,11 @@ On the right side of the page, click on **Live Chat**. This will take you to a G
 ![Live Chat Link](images/screenshot-02.png)
 
 You should see the history of your Live Chats listed on this page. Note: You may need to scroll to the bottom of the page to load more history.
+
 ![Live Comment Example](images/screenshot-03.png)
 
 Press `CTRL + S` to save the page as **Webpage, HTML Only**.
+
 ![Save As Type](images/screenshot-04.png)
 
 ## Extract Episodes
