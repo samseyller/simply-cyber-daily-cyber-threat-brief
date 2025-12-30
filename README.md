@@ -13,6 +13,7 @@ Navigate to YouTube and click on the **History** button on the left sidebar.
 ![History Button](images/screenshot-01.png)
 
 On the right side of the page, click on **Live Chat**. This will take you to a Google My Activity page that lists all of the videos you have left a Live Chat on.
+
 ![Live Chat Link](images/screenshot-02.png)
 
 You should see the history of your Live Chats listed on this page. Note: You may need to scroll to the bottom of the page to load more history.
